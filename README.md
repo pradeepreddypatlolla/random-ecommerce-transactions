@@ -3,12 +3,12 @@ This package is used to generate random ecommerce transactions data.
 
 # Installation
 ```
-npm i random-ecommerce-transactions
+npm i random-transactions-data
 ```
 # Usage
 
 ```
-import {getTransactions} from 'random-ecommerce-transactions'
+import {getTransactions} from 'random-transactions-data'
 
 const data = getTransaction(count)
 ```

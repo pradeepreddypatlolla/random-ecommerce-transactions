@@ -1,6 +1,6 @@
 {
   "name": "random-transactions-data",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This package genearates random transaction data",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/pradeepreddypatlolla/random-transactions-data/issues"
   },
-  "homepage": "https://github.com/pradeepreddypatlolla/random-transactions-data#readme"
+ 
+  "homepage":"https://github.com/pradeepreddypatlolla/random-transactions-data/blob/master/README.md"
 }
