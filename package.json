@@ -1,0 +1,26 @@
+{
+  "name": "random-transactions-data",
+  "version": "1.0.0",
+  "description": "This package genearates random transaction data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepreddypatlolla/random-transactions-data.git"
+  },
+  "keywords": [
+    "fakedata",
+    "ecommerce",
+    "random",
+    "transactions",
+    "placeholder"
+  ],
+  "author": "Pradeep Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeepreddypatlolla/random-transactions-data/issues"
+  },
+  "homepage": "https://github.com/pradeepreddypatlolla/random-transactions-data#readme"
+}
